@@ -1,3 +1,5 @@
+**[Download xer-reader](https://app.box.com/s/ekbmwk5sywp8q3ve0po4)**
+
 XER READER , a free Primavera viewer, is an Excel Macro that reads an xer and : 
 
 - Generate Project statistics.
@@ -13,5 +15,5 @@ XER READER , a free Primavera viewer, is an Excel Macro that reads an xer and :
 
 - [Generate Some DCMA 14 metrics.](https://www.plannertuts.com/xer-reader-free-tool-run-dcma-14-point-checks/)
 
-**[Download xer-reader](https://app.box.com/s/ekbmwk5sywp8q3ve0po4)**
+
 
