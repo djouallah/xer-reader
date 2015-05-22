@@ -1,2 +1,2 @@
 # xer-reader
-download the Excel file from here https://app.box.com/files/0/f/1648481730
+**[Download xer-reader](https://app.box.com/s/ekbmwk5sywp8q3ve0po4)**
