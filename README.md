@@ -13,7 +13,11 @@ XER READER , a free Primavera viewer, is an Excel Macro that reads an xer and :
 
 - Print a WBS split [by level](https://www.plannertuts.com/how-to-import-wbs-from-excel-to-primavera-p6-using-the-sdk/).
 
-- [Generate Some DCMA 14 metrics.](https://www.plannertuts.com/xer-reader-free-tool-run-dcma-14-point-checks/)
+- [Generate Some DCMA 14 metrics.](https://www.plannertuts.com/xer-reader-free-tool-run-dcma-14-point-checks/)     
+
+
+I added a new file, it is using only PowerQuery, it is slower compared to VBA when parsing the XER but once the data is loaded into the
+data Model, the rest is very easy. works only with Excel 2013 
 
 
 
