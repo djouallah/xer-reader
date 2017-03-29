@@ -19,5 +19,7 @@ XER READER , a free Primavera viewer, is an Excel Macro that reads an xer and :
 I added a new file, it is using only PowerQuery, it is slower compared to VBA when parsing the XER but once the data is loaded into the
 data Model, the rest is very easy. works only with Excel 2013 
 
+I am trying now to redo the whole thing in [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiYjkwZTMyY2EtYTE1Ny00OWQzLWJlZDktNjkxN2JkOTA3ZmIxIiwidCI6ImI2ZWM3ZGYwLTc1ZGEtNDc2Ni04MGI0LWNlYzM1MzZlNGYzYSIsImMiOjEwfQ%3D%3D)
+
 
 
